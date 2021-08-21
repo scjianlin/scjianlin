@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golang,Rust,kubernetes,Docker,CloudNative.
 - 🌱 I’m currently learning Rust,Goland.
 - 💞️ I’m looking to collaborate on K8S,CloudNative.
-- 📫 How to reach me, email: scjianlin@gmail.com
+- 📫 How to reach me, email: scjianlin@163.com
 
 <!---
 scjianlin/scjianlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
