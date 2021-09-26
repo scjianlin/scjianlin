@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scjianlin
+
 - 👀 I’m interested in Golang,Rust,kubernetes,Docker,CloudNative.
 - 🌱 I’m currently learning Rust,Goland.
 - 💞️ I’m looking to collaborate on K8S,CloudNative.
